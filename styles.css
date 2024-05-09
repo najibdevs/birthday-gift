@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  font-family: "Happy Monkey", system-ui;
+  background: #6f0505cc;
+  color: white;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.avatar {
+  width: 200px;
+  border-radius: 50%;
+  border: 6px solid black;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  text-shadow: 0px 0px 1px black;
+}
+
+.age, .date {
+    background: #6f0505cc;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.age {
+    margin: 5px 0 10px;
+}
+
+.date {
+    margin: 0;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+
+.gift-cover {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+
