@@ -57,5 +57,10 @@ p {
     width: 400px;
     border: 6px solid white;
     border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
 }
 
+.gift-cover:hover {
+    background: url(images/birthday-image.jpeg);
+}
