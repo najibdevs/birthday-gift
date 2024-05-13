@@ -96,7 +96,7 @@ body {
   }
   
   .cheers-gif:hover {
-    background: url(images/cheers-gif.gif);
+    background: url(images/cheers.gif);
     background-size: cover;
     background-position: center;
   }
